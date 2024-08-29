@@ -1,0 +1,7 @@
+version: 3
+tasks:
+  run:
+    cmds:
+      - poetry run uvicorn evaluation_end_points.main:app --host 0.0.0.0 --port $PORT --reload
+    env:
+      PORT: 8080
