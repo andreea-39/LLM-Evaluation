@@ -1,0 +1,79 @@
+[
+    {
+        "dialogue": "Person A: It's a beautiful day, isn't it?\nPerson B: Yes, it is. I'm just standing here, soaking up the sun.\nPerson A: I prefer sitting under the shade though.",
+        "extracted_poses": {
+            "Person_A": "sitting",
+            "Person_B": "standing"
+        }
+    },
+    {
+        "dialogue": "Person A: Did you hear that noise?\nPerson B: Yes, but I'm not sure where it came from.\nPerson A: Same here. I've been sitting in the kitchen.",
+        "extracted_poses": {
+            "Person_A": "sitting",
+            "Person_B": "None"
+        }
+    },
+    {
+        "dialogue": "Person A: Have you seen my book?\nPerson B: No, I've been kneeling here, looking under the couch.\nPerson A: Oh, I found it. I was laying down earlier and must have dropped it.",
+        "extracted_poses": {
+            "Person_A": "laying down",
+            "Person_B": "kneeling"
+        }
+    },
+    {
+        "dialogue": "Person A: How's the view from up there?\nPerson B: It's great, I'm standing on the balcony.\nPerson A: I'm just sitting on the porch, enjoying the evening breeze.",
+        "extracted_poses": {
+            "Person_A": "sitting",
+            "Person_B": "standing"
+        }
+    },
+    {
+        "dialogue": "Person A: Can you help me with this?\nPerson B: Sure, I'm just laying down for a bit.\nPerson A: No rush, I'm kneeling down to fix the leak here.",
+        "extracted_poses": {
+            "Person_A": "kneeling",
+            "Person_B": "laying down"
+        }
+    },
+    {
+        "dialogue": "Person A: Are you ready for the meeting?\nPerson B: Almost, I'm sitting at my desk, reviewing the notes.\nPerson A: I'm standing by the window, getting some fresh air before we start.",
+        "extracted_poses": {
+            "Person_A": "standing",
+            "Person_B": "sitting"
+        }
+    },
+    {
+        "dialogue": "Person A: Did you check under the bed?\nPerson B: Yes, I've been laying down on the floor to look.\nPerson A: I was sitting here, thinking where else it could be.",
+        "extracted_poses": {
+            "Person_A": "sitting",
+            "Person_B": "laying down"
+        }
+    },
+    {
+        "dialogue": "Person A: Are you comfortable?\nPerson B: Yes, I'm just kneeling here, playing with the cat.\nPerson A: I'm sitting on the couch, watching you two.",
+        "extracted_poses": {
+            "Person_A": "sitting",
+            "Person_B": "kneeling"
+        }
+    },
+    {
+        "dialogue": "Person A: Where are you?\nPerson B: I'm laying down in the garden, enjoying the weather.\nPerson A: I'm standing by the gate, waiting for you.",
+        "extracted_poses": {
+            "Person_A": "standing",
+            "Person_B": "laying down"
+        }
+    },
+    {
+        "dialogue": "Person A: Have you seen my pen?\nPerson B: No, I've been standing here, trying to organize my papers.\nPerson A: I've been kneeling under the desk, searching for it.",
+        "extracted_poses": {
+            "Person_A": "kneeling",
+            "Person_B": "standing"
+        }
+    },
+    {
+        "dialogue": "Person A: Do you need any help?\nPerson B: No, I'm sitting down and resting for a bit.\nPerson A: I'm standing here, waiting if you need anything.",
+        "extracted_poses": {
+            "Person_A": "standing",
+            "Person_B": "sitting"
+        }
+    }
+]
